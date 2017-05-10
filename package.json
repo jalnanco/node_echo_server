@@ -10,6 +10,7 @@
   },
   "scripts": {
     "start": "forever start index.js",
-    "stop": "forever stopall"
+    "stop": "forever stopall",
+    "coverage": "istanbul cover _mocha -- -R spec"
   }
 }

@@ -9,7 +9,7 @@
     "net": "^1.0.2"
   },
   "scripts": {
-    "start": "forever start app.js",
+    "start": "forever start index.js",
     "stop": "forever stopall"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name": "node_echo_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jalnanco/node_echo_server.git",
+  "author": "jalnanco <jihobada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}

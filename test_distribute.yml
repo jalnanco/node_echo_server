@@ -1,0 +1,8 @@
+- hosts: test
+  remote_user: ubuntu
+
+  tasks:
+  - name: Make dist
+    command: mkdir -p /home/ubuntu/dist
+  - name: Copy files
+    copy: dest=/home/ubuntu/dist

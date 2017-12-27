@@ -1,6 +1,0 @@
-- hosts: test
-  remote_user: ubuntu
-
-  tasks:
-  - name: Make dist
-    ping:

@@ -6,6 +6,7 @@
   "author": "jalnanco <jihobada@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.2",
     "net": "^1.0.2"
   },
   "scripts": {
